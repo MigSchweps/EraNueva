@@ -148,6 +148,15 @@ function twentyfourteen_get_featured_posts() {
 }
 
 /**
+ * Add bootstrap functions
+ *
+*/
+function enqueue_bootstrap()
+{
+	wp_enqueue_style('bootstrap-css', get_stylesheet_directory_uri() . '/bootstrap-3.1.1-dist/css/bootstrap.min.css');
+}
+add_action( 'wp_enqueue_scripts', 'enqueue_bootstrap' );
+/**
  * A helper conditional function that returns a boolean value.
  *
  * @since Twenty Fourteen 1.0
