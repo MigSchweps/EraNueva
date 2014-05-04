@@ -1,0 +1,577 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Magazine lite v1.6.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-01-07 14:40:20+0000\n"
+"Last-Translator: Michael Hebenstreit <mail@michael-hebenstreit.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: content.php:7
+#: includes/mh-widgets.php:99
+#: loop.php:14
+#@ mh
+msgid "0 Comments"
+msgstr "0 Kommentare"
+
+#: content.php:7
+#: includes/mh-widgets.php:99
+#: loop.php:14
+#@ mh
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: content.php:7
+#: includes/mh-widgets.php:99
+#: loop.php:14
+#@ mh
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: functions.php:235
+#@ mh
+msgid "Articles by "
+msgstr "Artikel von "
+
+#: comments.php:20
+#: functions.php:513
+#: functions.php:520
+#@ mh
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: comments.php:20
+#: functions.php:513
+#: functions.php:520
+#@ mh
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: comments.php:5
+#@ mh
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Artikel ist passwortgesch&uuml;tzt. Bitte geben Sie das Passwort ein um die Kommentare zu lesen."
+
+#: comments.php:39
+#@ mh
+msgid "Leave a comment"
+msgstr "Kommentar hinterlassen"
+
+#: comments.php:40
+#@ mh
+msgid "Your email address will not be published."
+msgstr "E-Mail Adresse wird nicht ver&ouml;ffentlicht."
+
+#: comments.php:12
+#: comments.php:42
+#@ mh
+msgid "Comment"
+msgstr "Kommentar"
+
+#: functions.php:71
+#@ mh
+msgid "Main Navigation"
+msgstr "Hauptnavigation"
+
+#: functions.php:105
+#@ mh
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:106
+#@ mh
+msgid "Home 1"
+msgstr "Startseite 1"
+
+#: functions.php:106
+#: functions.php:107
+#: functions.php:108
+#: functions.php:109
+#: functions.php:110
+#@ mh
+msgid "Widget area on homepage"
+msgstr "Widgetbereich auf der Startseite"
+
+#: functions.php:107
+#@ mh
+msgid "Home 2"
+msgstr "Startseite 2"
+
+#: functions.php:108
+#@ mh
+msgid "Home 3"
+msgstr "Startseite 3"
+
+#: functions.php:109
+#@ mh
+msgid "Home 4"
+msgstr "Startseite 4"
+
+#: functions.php:110
+#@ mh
+msgid "Home 5"
+msgstr "Startseite 5"
+
+#: functions.php:113
+#@ mh
+msgid "Footer 1"
+msgstr "Fu&szlig;zeile 1"
+
+#: functions.php:114
+#@ mh
+msgid "Footer 2"
+msgstr "Fu&szlig;zeile 2"
+
+#: functions.php:115
+#@ mh
+msgid "Footer 3"
+msgstr "Fu&szlig;zeile 3"
+
+#: functions.php:116
+#@ mh
+msgid "Footer 4"
+msgstr "Fu&szlig;zeile 4"
+
+#: functions.php:474
+#, php-format
+#@ mh
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: functions.php:478
+#@ mh
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: functions.php:481
+#@ mh
+msgid "Your comment is awaiting moderation."
+msgstr "Der Kommentar wartet auf Freischaltung."
+
+#: functions.php:498
+#@ mh
+msgid "Name "
+msgstr "Name"
+
+#: functions.php:499
+#@ mh
+msgid "Email "
+msgstr "E-Mail"
+
+#: functions.php:500
+#@ mh
+msgid "Website"
+msgstr "Webseite"
+
+#: content-none.php:12
+#@ mh
+msgid "Search"
+msgstr "Suche"
+
+#: functions.php:210
+#, php-format
+#@ mh
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: content.php:7
+#@ mh
+msgid " in "
+msgstr " in "
+
+#: includes/mh-widgets.php:167
+#@ mh
+msgid "MH Facebook Likebox"
+msgstr "MH Facebook Likebox"
+
+#: includes/mh-widgets.php:45
+#: includes/mh-widgets.php:122
+#: includes/mh-widgets.php:204
+#@ mh
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/mh-widgets.php:208
+#@ mh
+msgid "Facebook Page URL:"
+msgstr "Facebook url:"
+
+#: comments.php:13
+#@ mh
+msgid " on "
+msgstr " zu "
+
+#: includes/mh-shortcodes.php:29
+#@ mh
+msgid "Advertisement"
+msgstr "Anzeige"
+
+#: includes/mh-options.php:19
+#@ mh
+msgid "General Options"
+msgstr "Allgemeine Optionen"
+
+#: includes/mh-options.php:22
+#: includes/mh-options.php:56
+#@ mh
+msgid "Custom CSS"
+msgstr "Benutzerdefiniertes CSS"
+
+#: includes/mh-options.php:23
+#@ mh
+msgid "Tracking Code"
+msgstr "Tracking Code"
+
+#: includes/mh-options.php:49
+#: includes/mh-options.php:78
+#@ mh
+msgid "Left"
+msgstr "Links"
+
+#: includes/mh-options.php:49
+#: includes/mh-options.php:79
+#@ mh
+msgid "Right"
+msgstr "Rechts"
+
+#: includes/mh-options.php:57
+#@ mh
+msgid "Tracking Code (e.g. Google Analytics)"
+msgstr "Tracking Code (z.B. Google Analytics)"
+
+#: content.php:7
+#@ mh
+msgid " by "
+msgstr " von "
+
+#: comments.php:34
+#@ mh
+msgid "Comments are closed."
+msgstr "Kommentare sind deaktiviert."
+
+#: includes/mh-options.php:44
+#@ mh
+msgid "Scale background image to full size"
+msgstr "Hintergrundbild an Browserfenster anpassen"
+
+#: admin/admin.php:39
+#@ mh
+msgid "Subheading (will be displayed below post title)"
+msgstr "Zweit&uuml;berschrift (erscheint unterhalb des Titels)"
+
+#: functions.php:317
+#@ mh
+msgid "About "
+msgstr "&Uuml;ber "
+
+#: includes/mh-widgets.php:200
+#@ mh
+msgid "Connect with us on Facebook"
+msgstr "Folge uns bei Facebook"
+
+#: includes/mh-options.php:21
+#@ mh
+msgid "Posts/Pages Options"
+msgstr "Artikel/Seiten Optionen"
+
+#: includes/mh-options.php:51
+#@ mh
+msgid "Disable author box on posts/archives"
+msgstr "Autorbox in Artikeln/Archiven ausblenden"
+
+#: includes/mh-options.php:54
+#@ mh
+msgid "Enable related articles on posts"
+msgstr "&Auml;hnliche Artikel einblenden"
+
+#: searchform.php:3
+#@ mh
+msgid "To search, type and hit enter"
+msgstr "Suchbegriff eingeben und mit Enter best&auml;tigen"
+
+#: comments.php:12
+#@ mh
+msgid "Comments"
+msgstr "Kommentare"
+
+#: comments.php:26
+#@ mh
+msgid "Trackbacks & Pingbacks"
+msgstr "Trackbacks & Pingbacks"
+
+#: content-none.php:5
+#@ mh
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Es konnten keine passenden Inhalte gefunden werden. Bitte versuchen Sie es erneut mit einem anderen Suchbegriff."
+
+#: content-none.php:9
+#@ mh
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es konnten keine passenden Inhalte gefunden werden. Vielleicht kann Ihnen die Suchfunktion weiterhelfen."
+
+#: includes/mh-widgets.php:221
+#@ mh
+msgid "Show Faces"
+msgstr "Gesichter zeigen"
+
+#: includes/mh-widgets.php:225
+#@ mh
+msgid "Show Stream"
+msgstr "Stream zeigen"
+
+#: includes/mh-widgets.php:229
+#@ mh
+msgid "Show Header"
+msgstr "Header zeigen"
+
+#: includes/mh-widgets.php:233
+#@ mh
+msgid "Show Border"
+msgstr "Rand zeigen"
+
+#: includes/mh-options.php:45
+#@ mh
+msgid "Disable prettyPhoto lightbox"
+msgstr "prettyPhoto lightbox deaktivieren"
+
+#: includes/mh-options.php:52
+#@ mh
+msgid "Enable comments on pages"
+msgstr "Kommentare auf Seiten aktivieren"
+
+#: functions.php:241
+#@ mh
+msgid "Search Results for "
+msgstr "Suchergebnisse f&uuml;r "
+
+#: functions.php:249
+#@ mh
+msgid "Page not found (404)"
+msgstr "Seite nicht gefunden (404)"
+
+#: functions.php:355
+#@ mh
+msgid "&larr; Previous image"
+msgstr "&larr; Vorheriges Bild"
+
+#: functions.php:362
+#@ mh
+msgid "Next image &rarr;"
+msgstr "N&auml;chstes Bild &rarr;"
+
+#: includes/mh-options.php:53
+#@ mh
+msgid "Enable post / attachment navigation"
+msgstr "Links zur Artikelnavigation einblenden"
+
+#: functions.php:105
+#@ mh
+msgid "Widget area (sidebar left/right) on single posts, pages and archives"
+msgstr "Widgetbereich (Sidebar links/rechts) in Artikeln, Seiten und Archiven"
+
+#: functions.php:111
+#@ mh
+msgid "Posts 1"
+msgstr "Artikel 1"
+
+#: functions.php:111
+#@ mh
+msgid "Widget area above single post content"
+msgstr "Widgetbereich oberhalb des Contents auf Artikelebene"
+
+#: functions.php:112
+#@ mh
+msgid "Posts 2"
+msgstr "Artikel 2"
+
+#: functions.php:112
+#@ mh
+msgid "Widget area below single post content"
+msgstr "Widgetbereich unterhalb des Contents auf Artikelebene"
+
+#: functions.php:113
+#: functions.php:114
+#: functions.php:115
+#: functions.php:116
+#@ mh
+msgid "Widget area in footer"
+msgstr "Widgetbereich im Footer"
+
+#: includes/mh-options.php:20
+#@ mh
+msgid "Layout Options"
+msgstr "Layout Optionen"
+
+#: includes/mh-options.php:49
+#@ mh
+msgid "Position of default sidebar"
+msgstr "Position der standard Sidebar"
+
+#: includes/mh-options.php:46
+#@ mh
+msgid "Custom excerpt length in characters"
+msgstr "L&auml;nge von Textausz&uuml;gen in Zeichen"
+
+#: includes/mh-options.php:47
+#@ mh
+msgid "Custom excerpt more text"
+msgstr "More-Text f&uuml;r Textausz&uuml;ge"
+
+#: includes/mh-widgets.php:212
+#@ mh
+msgid "Width:"
+msgstr "Breite:"
+
+#: includes/mh-widgets.php:216
+#@ mh
+msgid "Height:"
+msgstr "H&ouml;he:"
+
+#: includes/mh-widgets.php:126
+#: includes/mh-widgets.php:294
+#@ mh
+msgid "Select a Category:"
+msgstr "Kategorie w&auml;hlen:"
+
+#: includes/mh-widgets.php:128
+#: includes/mh-widgets.php:296
+#@ mh
+msgid "All"
+msgstr "Alle"
+
+#: includes/mh-widgets.php:141
+#: includes/mh-widgets.php:309
+#@ mh
+msgid "Filter Posts by Tags (e.g. lifestyle):"
+msgstr "Artikel nach Tags filtern (z.B. Lifestyle):"
+
+#: includes/mh-widgets.php:145
+#: includes/mh-widgets.php:313
+#@ mh
+msgid "Show:"
+msgstr "Zeige:"
+
+#: includes/mh-widgets.php:146
+#: includes/mh-widgets.php:150
+#: includes/mh-widgets.php:314
+#: includes/mh-widgets.php:318
+#@ mh
+msgid "Posts"
+msgstr "Artikel"
+
+#: includes/mh-widgets.php:149
+#: includes/mh-widgets.php:317
+#@ mh
+msgid "Skip:"
+msgstr "&Uuml;berspringe:"
+
+#: includes/mh-widgets.php:154
+#: includes/mh-widgets.php:322
+#@ mh
+msgid "Ignore Sticky Posts"
+msgstr "Sticky Posts ignorieren"
+
+#: functions.php:348
+#@ mh
+msgid "&larr; Back to article"
+msgstr "&larr; Zur&uuml;ck zum Artikel"
+
+#: functions.php:357
+#@ mh
+msgid "&larr; Previous article"
+msgstr "&larr; Vorheriger Artikel"
+
+#: functions.php:364
+#@ mh
+msgid "Next article &rarr;"
+msgstr "N&auml;chster Artikel &rarr;"
+
+#: functions.php:388
+#@ mh
+msgid "Related Articles"
+msgstr "&Auml;hnliche Artikel"
+
+#: includes/mh-widgets.php:18
+#@ mh
+msgid "MH Affiliate Widget"
+msgstr "MH Affiliate Widget"
+
+#: includes/mh-widgets.php:53
+#@ mh
+msgid "Banner size:"
+msgstr "Bannergr&ouml;&szlig;e:"
+
+#: admin/admin.php:30
+#@ mh
+msgid "Post Options"
+msgstr "Artikel Optionen"
+
+#: includes/mh-widgets.php:17
+#@ mh
+msgid "MH Affiliate Widget to earn money by promoting WordPress themes by MH Themes."
+msgstr "MH Affiliate Widget mit dem Sie Geld durch die Weiterempfehlung der WordPress Themes von MH Themes verdienen k&ouml;nnen,"
+
+#: includes/mh-widgets.php:62
+#@ mh
+msgid "With this widget you can earn money by promoting WordPress themes by MH Themes. If you do not have a Creative Market Username yet, please visit our"
+msgstr "Mit diesem Widget k&ouml;nnen Sie durch die Weiterempfehlung der WordPress Themes von MH Themes Geld verdienen. Falls Sie noch keinen Creative Market Username haben, besuchen Sie bitte unsere"
+
+#: includes/mh-widgets.php:62
+#@ mh
+msgid "infopage for affiliates"
+msgstr "Infoseite f&uuml;r Affiliates"
+
+#: content-none.php:16
+#@ mh
+msgid "Recent Articles"
+msgstr "Neueste Artikel"
+
+#: content.php:7
+#@ mh
+msgid "Posted on "
+msgstr "Ver&ouml;ffentlicht am "
+
+#: includes/mh-widgets.php:70
+#@ mh
+msgid "Custom Posts Widget to display posts based on categories or tags."
+msgstr "Custom Posts Widget um Artikel basierend auf Kategorien oder Schlagw&ouml;rtern anzuzeigen."
+
+#: includes/mh-widgets.php:71
+#@ mh
+msgid "MH Custom Posts (Lite)"
+msgstr "MH Custom Posts (Lite)"
+
+#: includes/mh-widgets.php:157
+#: includes/mh-widgets.php:325
+#@ mh
+msgid "This is the Lite Version of this widget with only basic features. If you need more features and options, you can upgrade to the premium version of this theme."
+msgstr "Dies ist die Lite Version dieses Widgets mit eingeschr&auml;nkter Funktionalit&auml;t. Sie k&ouml;nnen auf die Premium Version des Themes upgraden um mehr Funktionen und Optionen zu erhalten."
+
+#: includes/mh-widgets.php:166
+#@ mh
+msgid "Widget to display a Facebook likebox in your sidebar."
+msgstr "Widget um eine Facebook Likebox in der Sidebar anzuzeigen."
+
+#: includes/mh-widgets.php:242
+#@ mh
+msgid "Slider widget for use on homepage template."
+msgstr "Slider Widget zur Nutzung auf dem Homepage Template."
+
+#: includes/mh-widgets.php:243
+#@ mh
+msgid "MH Slider Widget (Lite)"
+msgstr "MH Slider Widget (Lite)"
+
