@@ -4,7 +4,8 @@
 <div class="wrapper hp clearfix">
 	<div class="clearfix">
 		<div class="content left">
-		    <?php dynamic_sidebar('home-1'); ?>
+		    <?php echo do_shortcode( '[advps-slideshow optset="1"]' ); ?>
+			<?php dynamic_sidebar('home-1'); ?>
 			<?php if (is_active_sidebar('home-2') || is_active_sidebar('home-3')) : ?>
 			<div class="clearfix">
 			<?php if (is_active_sidebar('home-2')) { ?>
