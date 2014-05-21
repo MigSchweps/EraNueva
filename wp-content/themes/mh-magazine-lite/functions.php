@@ -30,7 +30,15 @@ function mh_post_header() {
 function mh_loop_content() {
     do_action('mh_loop_content');
 }
-
+// Ajoute le CSS et le JavaScript pour utiliser Bootstrap
+function enqueue_bootstrap() {
+  wp_enqueue_style('bootstrap-css', get_stylesheet_directory_uri() . '/bootstrap-3.1.1-dist/css/bootstrap.min.css' );
+ 
+  // Ces deux lignes ne sont utiles que si vous utilisez les fonctionnalites JavaScript
+  wp_enqueue_script('jquery');
+  wp_enqueue_script('bootstrap-js', get_stylesheet_directory_uri() . '/bootstrap-3.1.1-dist/js/bootstrap.min.js', 'jquery' );
+}
+add_action( 'wp_enqueue_scripts', 'enqueue_bootstrap' );
 /***** Enable Shortcodes inside Widgets	*****/
 
 add_filter('widget_text', 'do_shortcode');
@@ -563,7 +571,7 @@ add_filter('image_size_names_choose', 'custom_image_size_choose');
 /***** Include Functions *****/ 
 
 if (is_admin()) {
-	require_once('admin/admin.php');
+	require_once('includes/admin/admin.php');
 }
 
 require_once('includes/mh-options.php');
