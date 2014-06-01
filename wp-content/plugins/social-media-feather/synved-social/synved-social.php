@@ -1123,11 +1123,6 @@ function synved_social_button_list_markup($context, $vars = null, $buttons = nul
 			}
 		}
 		
-		if (synved_option_get('synved_social', 'show_credit'))
-		{
-			$out .= '<a class="synved-social-credit" target="_blank" rel="nofollow" title="' . __('WordPress Social Media Feather', 'synved-social') . '" href="http://synved.com/wordpress-social-media-feather/" style="color:#444; text-decoration:none; font-size:8px; margin-left:5px;vertical-align:10px;white-space:nowrap;"><span>' . __('by ', 'synved-social') . '</span><img style="display: inline;margin:0;padding:0;width:16px;height:16px;" width="16" height="16" alt="feather" src="' . $uri . '/image/icon.png" /></a>';
-		}
-		
 		if ($container != 'none' && ($container == 'both' || $container == $context))
 		{
 			$out .= '</' . $container_tag . '>';
