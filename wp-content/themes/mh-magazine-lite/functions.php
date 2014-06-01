@@ -67,7 +67,7 @@ function mh_themes_setup() {
 	add_theme_support('automatic-feed-links');
 	add_theme_support('custom-background');		
 	add_theme_support('post-thumbnails');
-	add_image_size('content', 620, 264, true);
+	add_image_size('content', 700, 270, true);
 	add_image_size('loop', 174, 131, true);
 	add_image_size('cp_small', 70, 53, true);
 	add_editor_style();
