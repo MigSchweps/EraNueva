@@ -25,7 +25,7 @@
 <?php } ?>
 </div>
 <div class="copyright-wrap">
-	<p class="copyright"><?php echo 'Copyright &copy; ' . date("Y") . ' | Theme by <a href="http://www.mhthemes.com/">MH Themes</a>'; ?></p>
+	<p class="copyright"><?php echo 'Copyright &copy; ' . date("Y") . ' | Era Nueva'; ?></p>
 </div>
 <?php if ($options['tracking_code']) { ?>
 <?php echo $options['tracking_code']; ?>

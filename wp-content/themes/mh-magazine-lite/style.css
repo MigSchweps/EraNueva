@@ -27,8 +27,9 @@ body { font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 14px; 
 .fullbg .custom-background { -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 .container { width: 980px; margin: 20px auto 0; position: relative; -webkit-box-shadow: 0 0 5px 1px #a8a8a8; -moz-box-shadow: 0 0 5px 1px #a8a8a8; box-shadow: 0 0 5px 1px #a8a8a8; }
 .wrapper { padding: 20px; background: #fff; }
-.content { width: 700px; overflow: hidden; }
-.sidebar, .hp-sidebar { width: 220px; float: left; }
+.content { width: 700px; overflow: hidden;}
+.sidebar, .hp-sidebar { width: 325px; float: left;}
+.sidebar .hp-sidebar-second { width: 200px; float: left; }
 .sb-right { margin-left: 20px; }
 .sb-left { margin-right: 20px; }
 .left { float: left; }
@@ -256,7 +257,7 @@ th { background-color: #f9f9f9; font-weight: 600; color: #000; }
 .cp-widget li:first-child { padding-top: 0; }
 .cp-thumb { float: left; margin-right: 10px; margin-right: 0.625rem; }
 .cp-widget-title { line-height: 1.3; }
-.cp-small { font-size: 13px; font-size: 0.8125rem; }
+.cp-small { font-size: 20px; font-size: 0.9rem; }
 .cp-small .meta { font-size: 11px; font-size: 0.6875rem; }
 .home-wide .cp-small { float: left; width: 50%; min-height: 55px; }
 .home-wide .cp-small .cp-data { margin-right: 10px; }

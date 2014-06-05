@@ -23,7 +23,7 @@
 			<?php dynamic_sidebar('home-4'); ?>
 		</div>
 		<?php if (is_active_sidebar('home-5')) { ?>
-		<div class="hp-sidebar sb-right hp-home-6">
+		<div class="hp-sidebar-second sb-right hp-home-6">
         	<?php dynamic_sidebar('home-5'); ?>     
 		</div>
 		<?php } ?>
