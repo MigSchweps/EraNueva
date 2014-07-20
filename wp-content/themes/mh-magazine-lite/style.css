@@ -29,7 +29,7 @@ body { font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 14px; 
 .wrapper { padding: 20px; background: #fff; }
 .content { width: 700px; overflow: hidden;}
 .sidebar { width: 200px; float: left;}
-.hp-sidebar { width: 300px; float: left;}
+.hp-sidebar { width: 300px; float: left; margin-left:20px;}
 .sidebar .hp-sidebar-second { width: 200px; float: left; }
 .sb-right { margin-left: 20px; }
 .sb-left { margin-right: 20px; }
