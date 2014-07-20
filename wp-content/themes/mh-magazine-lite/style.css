@@ -30,7 +30,8 @@ body { font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 14px; 
 .content { width: 700px; overflow: hidden;}
 .sidebar { width: 200px; float: left;}
 .hp-sidebar { width: 300px; float: left; margin-left:20px;}
-.sidebar .hp-sidebar-second { width: 200px; float: left; }
+.sidebar { width: 200px; float: left; }
+.hp-sidebar-second { width: 200px; float: left; margin-left:30px;}
 .sb-right { margin-left: 20px; }
 .sb-left { margin-right: 20px; }
 .left { float: left; }
